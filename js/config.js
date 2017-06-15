@@ -7,7 +7,7 @@ fantasy.config = {
 		{name: "Matt", golfers: [5467, 9780, 569, 110, 780]},
 		{name: "Buzz", golfers:[3448, 5467, 1680, 9780, 5860]},
 		{name: "Garrett", golfers:[3448, 5467, 388, 257, 1222]},
-		{name: "Jetta", golfers: [9402, 110, 3702, 308, 5467]},
+		{name: "Jetta", golfers: [9402, 110, 3702, 9031, 5467]},
 		{name: "Michael", golfers:[3448, 5467, 1680, 9780, 3702]},
 		// {name: "DaveG", golfers:[1680, 388, 3702, 1293, 4304]},
 		{name: "JR", golfers:[3448, 1680, 569, 5860, 576]},
@@ -69,6 +69,7 @@ fantasy.config = {
 	// kaymer - 3670
 	// woodland - 3550
 	// niebrugge - 9402
+	// pieters - 9031
 
 
 };
