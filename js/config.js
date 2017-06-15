@@ -4,7 +4,7 @@ fantasy.config = {
 	tournamentId: 3066,
 	teams:[
 		{name: "JackG", golfers:[3448, 3470, 3702, 158, 388]},
-		{name: "Matt", golfers: [5467, 9780, 569, 110, 780]}
+		{name: "Matt", golfers: [5467, 9780, 569, 110, 780]},
 		{name: "Buzz", golfers:[3448, 5467, 1680, 9780, 5860]},
 		{name: "Garrett", golfers:[3448, 5467, 388, 257, 1222]},
 		{name: "Jetta", golfers: [3448, 780, 1067, 3550, 6798]},
